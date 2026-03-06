@@ -1,5 +1,5 @@
 ---
-title: Your Name
+title: Brandon Morgan, PhD
 layout: nav-profile
 date: 2024-12-02
 ---
